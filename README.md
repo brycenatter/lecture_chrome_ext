@@ -1,7 +1,7 @@
 # umich\_lecture\_tools
  Adding functionality to Umich lecture recordings through a Chrome extension. You can add it to Chrome here.
  
-**NOTE: THIS EXTENSION WILL ONLY WORK WITH URLS THAT FOLLOW https://leccap.engin.umich.edu/leccap/player/r/[SOME ID]**
+**NOTE: THIS EXTENSION WILL ONLY WORK WITH URLS THAT FOLLOW \https://leccap.engin.umich.edu/leccap/player/r/[SOME ID]**
  
  I spent the weekend writing this Chrome extension to learn a bit about how the Chrome API works. The interface is super ugly because I didn't have the time to spend designing something then battling CSS. The features are listed below as well as some of the know issues and features that I plan on adding. If you would like to contribute for whatever reason, feel free to issue a pull request or send me an email at my umich email which you can lookup online.
  
