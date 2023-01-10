@@ -1,5 +1,5 @@
 # umich\_lecture\_tools
- Adding functionality to Umich lecture recordings through a Chrome extension. You can add it to Chrome here.
+ Adding functionality to Umich lecture recordings through a Chrome extension. You can add it to Chrome [here](https://chrome.google.com/webstore/detail/umich-lecture-tools/nkhcmlhedphjajknkpdhjnccjlbbfaco).
  
 **NOTE: THIS EXTENSION WILL ONLY WORK WITH URLS THAT FOLLOW https://leccap.engin.umich.edu/leccap/player/r/[SOME_ID]**
  
