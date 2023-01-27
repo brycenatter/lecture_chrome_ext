@@ -18,9 +18,6 @@ Video opens in new tab where you can save it locally
 
 ### Picture in Picture
 Picture in Picture allows you to watch the lecture video overtop any other content on your screen in a resizable hovering window. The floating window also offers play/pause control.
- 
-![Picture in picture image](./images/pip_img.png)
-Click "Picture in picture"
 
 ![Picture in picture image](./images/floating_window.png)
 Floating window appears over all other content on screen
