@@ -32,8 +32,10 @@ Select your preferred colors with the color pickers and then click "Set"
 * Color pickers not saving past state
 * Disgusting UI design
 * Basically no error handling code
-* Might not work on non-engineering lectures. I'll have to wait until my first ECON lecture to figure this out
 * Tons of missing features
+
+## Features to add
+* Downloading the captions file for use in VLC or other video players
 
 ## Privacy Policy
 Chrome web store is making me have one, so [heres a link](./privacy.md) to it if you want to read it. I don't send any data to anywhere. The extension does inject scripts into webpages that match the URL scheme of a Umich leacture to make the extension work. It also reads the URL of your active tab if you click to open the extension popup, but it only uses that information to disable all features if you're not currently watching a lecture.
